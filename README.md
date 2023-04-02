@@ -2,4 +2,4 @@
 Automate Subdomain takeover via Github
 
 #Uses
-main.sh demo.sumedh.com
+subdogit.sh demo.sumedh.com
